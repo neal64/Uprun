@@ -25,7 +25,7 @@ Keyboard.disableScroll = function(disable) {
     exec(null, null, "Keyboard", "disableScroll", [disable]);
 };
 
-/*
+/* Keyboard
 Keyboard.styleDark = function(dark) {
  exec(null, null, "Keyboard", "styleDark", [dark]);
 };
